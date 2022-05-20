@@ -1,11 +1,3 @@
-## Name: *Iulian-Marius Tăiatu*
-## Kaggle username: *Iulian277*
-## Kaggle profile: *https://www.kaggle.com/iulian277* 
-## EDA Notebook: *https://www.kaggle.com/code/iulian277/h-m-eda*
-## ML Model Notebook: *https://www.kaggle.com/code/iulian277/h-m-solution*
-## Leaderboard score: *0.0208*
----
-
 # EDA Notebook
 
 **All the methods used in the project are documented in the notebook.**
