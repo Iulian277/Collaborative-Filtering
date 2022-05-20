@@ -145,4 +145,4 @@ The initial research was done on the following notebooks:
 
 - Unsupervised algorithms may be useful here. `K-Means` would be a great candidate. Maybe it will find some good clusters.
 
-- A Neural Network may do some great work, because we are dealing with a dataframe with a lot of transactions and it's hard to come with a good solution using some simple algorithms.
+- A `Neural Network` may do some great work, because we are dealing with a dataframe with a lot of transactions and it's hard to come with a good solution using some simple algorithms.
